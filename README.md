@@ -4,7 +4,6 @@
 .
 > Descrizione dei passaggi da eseguire per l'installazione e il test del progetto.
 
-> Progetto sviluppato e testato su macOS Catalina 10.15.5
 
 ## Installazione Quorum Wizard
  Seguire le istruzioni del seguente link per ottenere una blockchain privata con 3 nodi: https://docs.goquorum.com/en/latest/Wizard/GettingStarted/
