@@ -1,2 +1,2 @@
-kxmwcjernwrejlnfasdjoewkacjxokmdfncijosdkamcnfjsidkmxl
-cvefbgrecvefbgrnht
+Name	Lunghezza proiezione 2D  (m)	Lunghezza proiezione 2D  Errore (m)	Lunghezza 3D  (m)	Lunghezza 3D  Errore (m)	Area 2D proiettata  (m2)	Area 2D proiettata  Errore (m2)	Area 3D Racchiusa  (m2)	Area 3D Racchiusa  Errore (m2)	Area 3D del terreno  (m2)	Area 3D del terreno  Errore (m2)	Volume di riempimento  (m3)	Volume di riempimento  Errore (m3)	Volume di taglio  (m3)	Volume di taglio  Errore (m3)	Volume totale  (m3)	Volume totale  Errore (m3)
+Surface 1	68.2651		90.1953		282.955		455.646									
